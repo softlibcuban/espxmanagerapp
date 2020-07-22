@@ -1,6 +1,6 @@
 # espmanagerapp
 
-A new Flutter project.
+Application to interact with devices with firmware https://github.com/softlibcuban/espcorelibdev
 
 ## Getting Started
 
